@@ -1,0 +1,17 @@
+rpoint= *,100,5
+wall=#
+up=w
+down=s
+moveblock=S
+left=a
+right=d
+object=C
+character=O
+target=T
+raindb=0
+time=
+put=p,D,5
+opp=G,O
+solidblock=D 
+deathblock=M
+Exit=q

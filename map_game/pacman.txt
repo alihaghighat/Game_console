@@ -1,0 +1,16 @@
+solidblock=B
+deathblock=D
+moveblock=M
+time=50
+rpoint=*,1,12
+wall=#
+up=w
+down=s
+left=a
+right=d
+character=O
+opp=G,O
+raindb=10
+attack=12
+put=p,D,5
+Exit=q

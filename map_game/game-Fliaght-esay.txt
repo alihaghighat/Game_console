@@ -1,0 +1,12 @@
+wall=#
+up=w
+down=s
+left=a	
+right=d
+character=O
+target=T
+raindb=5
+attack=10
+time=35
+deathblock=M
+Exit=q

@@ -1,0 +1,22 @@
+50x20
+##################################################
+#SSSSSSSSSSSSSSSSSSSSSSSSSSSSS               M   #
+#                           S        SSSSSSSSD   #
+#    S SSSSSSSSSSSSSSSSSSSSS S   D    S          #
+#    S S                   S S  DT    S          #
+#    S S                   S SSSSSSSSSSSSSS SSSSD#
+#    S S                   S                     #
+#SSSSS SSS                 S SSSSSSSSSSSDSSSSSSSS#
+#        S                 S S                   #
+#SSSSSSS S                 S S D  D SSSSSSSDSSSSS#
+#      S SSSSSSSSSSSSSSSSSSS S      S            #
+#      S S                          S SS SSSSSSS #
+#      S SSSSSSSSSSSSSSSSSSS SSSSSSSS    S       #
+#      S MS           D                 S        #
+#      S  S SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS       #
+#      S  S                     D                #
+#SSSSSSS  SSSSSSSSSSSSSSSSS SSSSSSSSSSSSSSSSSSSSS#
+#         S               S      S    T         D#
+#  SSSSSSSS     SSSSSSSSSSS      SSSSS SSSSSSS  D#
+# OS                                  M          #
+##################################################

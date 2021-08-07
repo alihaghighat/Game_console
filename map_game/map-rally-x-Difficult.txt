@@ -1,0 +1,32 @@
+60x30
+############################################################
+#                  SSSSS                                 T #
+#                  SSSSS                                   #
+#                  SSSSS                                   #
+#                             SSSSSS                       #
+#                             SSSSSS                       #
+#SSSSSSSSSSSSSSS              SSSSSS                       #
+#SSSSSSSSSSSSSSS                                           #
+#SSSSSSSSSSSSSSS                                           #
+#                                    SSSSS             SSSS#
+#                                    SSSSS              SSS#
+#                                    SSSSS             DDDD#
+#                 SSSSSSSSSS                           DDDD#
+#                 SSSSSSSSSS                               #
+#                 SSSSSSSSSS      DDD                      #
+#                                 DDD      SSSSSS          #
+#SSSSSSS                                   SSSSSS          #
+#SSSSSSS                                   SSSSSS          #
+#                                                          #
+#                           S                              #
+#                          S                               #
+#                         S                                #
+#                        S           SSSSSSSSSS            #
+#              SSSSS                 SSSSSSSSSS            #
+#              DDDDD                 SSSSSSSSSS            #
+#              DDDDD                                       #
+#                                                          #
+#                       DDDDDD                             #
+#     >                 DDDDDD                   DDDDDD    #
+#  O                    DDDDDD                   DDDDDD    #
+############################################################

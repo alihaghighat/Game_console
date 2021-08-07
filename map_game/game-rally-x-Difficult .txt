@@ -1,0 +1,13 @@
+wall=#
+up=w
+down=s
+left=a	
+right=d
+character=O
+target=T
+time=150
+opp=>,T
+solidblock=S
+deathblock=D
+moveblock=M
+Exit=q

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1562135038 source:c:\users\ahmad\desktop\console\9732511_9732475_finalproject.c
+	"header.h"
+
+1562135217 c:\users\ahmad\desktop\console\header.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<float.h>
+	<time.h>
+	<dos.h>
+	<conio.h>
+	<dos.h>
+
+1562134202 source:c:\users\ahmad\desktop\console\functions.c
+	"header.h"
+
